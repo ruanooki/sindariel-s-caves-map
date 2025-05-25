@@ -1,0 +1,12 @@
+<div class="modal-custom">
+    <h3>Path 12 of Eye</h3>
+    <hr>
+
+    <p>You follow the path engraved with an eye symbol. This path is wide, and long, and the walls are smooth as if someone had hollowed 
+        them out. On the path you find a crystal bird, and an odd stone marked with a symbol and g2. Perhaps this Symbol Stone G2 will 
+        be of use.</p>
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 1 bird</p>
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone A9</p>
+</div>

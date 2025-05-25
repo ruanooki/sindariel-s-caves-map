@@ -1,0 +1,36 @@
+<div class="modal-custom">
+    <h3>Cavern 12 of Tree</h3>
+    <hr>
+
+    <p>This cavern is humongous-- so large that it will take days to explore. Even more breathtaking though, is the forest of glowing 
+        blue-white trees that fills it, and the carpet of glowing blue moss below. An entire forest is in a cave, filled with flowers, 
+        streams, ponds, and the like. Furred animals seem to live here as well. There's a calm to this place, though sometimes when 
+        walking through you feel as if you're being watched. To the southwest there's a tiny cavern. By one of the trees you find a 
+        stone marked with a symbol, and with a9. Perhaps this Symbol Stone A9 will be of use.</p>
+    <hr>
+
+    <p>Moss: 
+        <span class="item-description">The moss is soft beneath your feet, and glows with a blue light. Other than the blue and the light, 
+            it seems like normal moss.</span>
+    </p>
+
+    <p>Trees: 
+        <span class="item-description">The trees of the cavern forest glow with a blue-white light. They seem to be of some deciduous 
+            variety, and when their leaves fall to the mossy ground the light dims somewhat. It's a breathtaking and alien sight.</span>
+    </p>
+
+    <p>Animals: 
+        <span class="item-description">The animals of the cavern forest are exactly the animals you might see in a forest above 
+            ground--deer, squirrels, foxes, chipmunks-- except with a few notable difference. Most notable is their pelts seem to 
+            be blue, and that their eyes and other features seem to glow with white. They're edible if one tries to eat them. If you 
+            wish to tame one, you may simply say your character has done so.</span>
+    </p>
+
+    <p>Methurin: 
+        <span class="item-description">A name that some use for Fakian's realm.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone A9</p>
+</div>

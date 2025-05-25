@@ -1,0 +1,17 @@
+<div class="modal-custom">
+    <h3>Path 4 of Water</h3>
+    <hr>
+
+    <p>Taking a closer look at the waterfall, you realize there's a path behind, with water shallow enough to wade through:</p>
+    <p>You follow it, your feet sloshing through the cold cave water until you reach a cavern at the back. It's filled with bones. 
+        Large bones, small bones, fish bones, animal bones that definitely don't belong in a cave and uncomfortably many bones that 
+        look decidedly human.</p>
+
+    <hr>
+
+    <p>Bones: 
+        <span class="item-description">You search through the bones, some of them crunching beneath your feet as you dig through them. 
+            There seems to be nothing on them, until you find a small piece of metal marked with 'Left Arm - Symbol of the Beetle' 
+            along with what you suppose is the symbol of the beetle.</span>
+    </p>
+</div>

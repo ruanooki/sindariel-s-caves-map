@@ -1,0 +1,18 @@
+<div class="modal-custom">
+    <h3>Path 11 of Tree</h3>
+    <hr>
+
+    <p>From the large cavern before you decided to follow the path to the north. This path is short and straight, but you can 
+        tell it opens up into a massive cavern ahead. You notice ferns line the path here, giving it a sense of life. Among 
+        them you find two crystal birds.</p>
+        
+    <hr>
+
+    <p>Ferns: 
+        <span class="item-description"> From what you can tell they seem like normal ferns that have somehow adapted to cave life.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 2 birds</p>
+</div>

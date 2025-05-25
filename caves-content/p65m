@@ -1,0 +1,19 @@
+<div class="modal-custom">
+    <h3>Path 6.5 of Moon</h3>
+    <hr>
+
+    <p>This is the southmost path of a small cavern that had 4 paths leading from it in different directions. There is a moon 
+        engraved on the floor. Otherwise the path is short and insignificant. There is a glimmer behind that stone though. 
+        A crystal bird?</p>
+
+    <hr>
+        
+    <p>Moon: 
+        <span class="item-description">The moon engraved on the floor of the path is just that. A stone engraving.</span>
+    </p>
+        
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+
+</div>

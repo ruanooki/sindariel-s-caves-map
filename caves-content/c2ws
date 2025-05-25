@@ -1,0 +1,12 @@
+<div>
+    <h3>Cave 2 of Water and Shadow</h3>
+    <hr>
+
+    <p>The tunnel from the entrance extends into a larger, round cavern, filled with stones. There are two paths to choose from now, one 
+        leading to the west, and one to the north. To the north is a wide path from which you can hear the sound of rushing water, and to 
+        the west is a thin path, the stones within in odd formation that cast ghoulish dancing shadows when exposed to the light of flame.
+        Searching this place, you manage to find some crystalline birds.</p>
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+</div>

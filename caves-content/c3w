@@ -1,0 +1,73 @@
+<div>
+    <h3>Cavern 3 of Water</h3>
+ 
+    <ul class="nav">
+        <li class="vers-btn nav-item"><a href="#vers1" class="nav-link active path-btn py-0" data-bs-toggle="tab">Vers 1</a></li>
+        <li class="vers-btn nav-item" ><a href="#vers2" class="nav-link path-btn py-0" data-bs-toggle="tab">Vers 2</a></li>
+        <li class="vers-btn nav-item" ><a href="#vers3" class="nav-link path-btn py-0" data-bs-toggle="tab">Vers 3</a></li>
+    </ul>
+    
+
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="vers1">
+            <hr>
+        
+            <p>From the cavern previous, you decided to follow the sound of rushing water and now find yourself in another large cavern. 
+                At the far end of it, a glassy pool takes up much of the space, its surface rippling softly from the waterfall pouring 
+                into it from the back. A nearby stone scrapes your leg, but as water drips onto it you notice the wound close. It 
+                couldn't hurt to take some of this.</p>
+            <hr>
+
+            <p>Pool: 
+                <span class="item-description"> The water seems to glow with a cyan light. It makes it difficult to see what lies beneath 
+                    its tranquil surface.</span>
+            </p>
+
+            <hr>
+
+            <p class="footnote"><img src="icons/healing_potion.webp" class="item-icon" /> 1 Healing Potion</p>
+
+        </div>
+
+        <div class="tab-pane fade" id="vers2">
+            <hr>
+        
+            <p>From the cavern previous, you decided to follow the sound of rushing water and now find yourself in another large cavern. 
+                At the far end of it, a glassy pool takes up much of the space, its surface rippling softly from the waterfall pouring 
+                into it from the back. Suddenly, the surface starts to break and roil, and you see the top of a human head peek out, its 
+                pale opalescent eyes staring at you. It needs only a glance before a long limbed creature starts to crawl out of the 
+                depths, its jaw unhinging to show sharpened teeth. (Shamblers are crawling out of the pool. You may choose to take 10xp 
+                now, or if you wish to moderate a fight you may bring three others with you. Use the &lt;!monst shambler&gt; command to see the 
+                Shambler's stats..)</p>
+            <hr>
+
+            <p>Pool: 
+                <span class="item-description"> The water seems to glow with a cyan light. It makes it difficult to see what lies beneath 
+                    its tranquil surface.</span>
+            </p>
+
+            <hr>
+
+            <p class="footnote"><img src="icons/small_beast.webp" class="item-icon" />  Shambler Encounter</p>
+        </div>
+
+        <div class="tab-pane fade" id="vers3">
+            <hr>
+        
+            <p>A pool rests before you, glowing with a pale light, and rippling from the waterfall splashing into it. You move to take a 
+                closer look, but slip on a wet stone, and plunge into the water. Beneath you, you see the bottom pool is covered in 
+                skeletons-- white, and glimmering beneath the water. A voice murmurs in your ear "Get out!" and you struggle to the 
+                surface. When you finally make it, you find an odd ring in your hand.</p>
+            <hr>
+
+            <p>Pool: 
+                <span class="item-description"> The water seems to glow with a cyan light. It makes it difficult to see what lies beneath 
+                    its tranquil surface.</span>
+            </p>
+
+            <hr>
+            <p class="footnote"><img src="icons/gem_knowledge.webp" class="item-icon" />  Gem of Knowledge</p>
+        </div>
+    </div>
+      
+</div>

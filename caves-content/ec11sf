@@ -1,0 +1,17 @@
+<div class="modal-custom">
+    <h3>Eye Cavern 11 of Sword and Feather</h3>
+    <hr>
+
+    <p>Following either one of the paths engraved with an eye takes you to the south side of a fairly large cavern. There are two more 
+        paths that lead from it to the north. The left path has a feather engraved on the floor, while the right path has a sword 
+        engraved on the floor. You find an odd stone with a symbol on it, as well as w9 on it. Perhaps this Symbol Stone W9 will be 
+        of use. You also find a crystal bird.Following either one of the paths engraved with an eye takes you to the south side of 
+        a fairly large cavern. There are two more paths that lead from it to the north. The left path has a feather engraved on the 
+        floor, while the right path has a sword engraved on the floor. You find an odd stone with a symbol on it, as well as w9 on it. 
+        Perhaps this Symbol Stone W9 will be of use. You also find a crystal bird.</p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 1 bird</p>
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone W9</p>
+</div>

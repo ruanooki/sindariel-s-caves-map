@@ -1,0 +1,11 @@
+<div class="modal-custom">
+    <h3>Path 12 of Feather</h3>
+    <hr>
+
+    <p>You follow the path engraved with a feather. It's short, and wide, and opens into another large cavern at the end. Exploring the 
+        path, you manage to find a handful of crystal birds.</p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+</div>

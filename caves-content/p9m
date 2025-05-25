@@ -1,0 +1,10 @@
+<div class="modal-custom">
+    <h3>Path 9 of Mushroom</h3>
+    <hr>
+
+    <p>This path is very long, and curves like a crescent. You don't find much on it except a stone marked with a symbol and a w4. 
+        Perhaps this Symbol Stone W4 will be of use.</p>
+
+    <hr>
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone W4</p>
+</div>

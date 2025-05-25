@@ -1,0 +1,70 @@
+/* Map type button styles */
+.map-btn {
+    display: block;
+    width: 100%;
+    color: white;
+    border: solid 2px;
+    border-radius: 5px;
+    padding: 10px auto;
+    margin: 10px auto;
+}
+
+#icons-btn {
+    color: cornflowerblue;
+    border-color: cornflowerblue;
+    background-color: transparent;
+}
+
+#icons-btn:focus {
+    background-color: rgba(100, 149, 237, 0.2);
+}
+
+#monster-btn {
+    color: red;
+    border-color: red;
+    background-color: transparent;
+}
+
+#monster-btn:focus {
+    background-color: rgba(255, 0, 0, 0.2);
+}
+
+#potion-btn {
+    color: darkseagreen;
+    border-color: darkseagreen;
+    background-color: transparent;
+}
+
+#potion-btn:focus {
+    background-color: rgba(143, 188, 143, 0.2);
+}
+
+#other-btn {
+    color: khaki;
+    border-color: khaki;
+    background-color: transparent;
+}
+
+#other-btn:focus {
+    background-color: rgba(240, 230, 140, 0.2);
+}
+
+#stones-btn {
+    color: grey;
+    border-color: grey;
+    background-color: transparent;
+}
+
+#stones-btn:focus {
+    background-color: rgba(128, 128, 128, 0.2);
+}
+
+#bird-btn {
+    color: #ffa500;
+    border-color: orange;
+    background-color: transparent;
+}
+
+#bird-btn:focus {
+    background-color: rgba(255, 165, 0, 0.2);
+}

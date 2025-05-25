@@ -1,0 +1,19 @@
+<div class="modal-custom">
+    <h3>Cavern 7.5 of Moon</h3>
+    <hr>
+
+    <p>Following the short path that led from a large cavern previous, you arrive in a smaller cavern. What catches your 
+        attention first is a large statue of bones, a green glimmer shines from one of its eyes. Inspecting the glimmer 
+        more closely, you find a small earring.</p>
+
+    <hr>
+
+    <p>Statue of Bones:
+        <span class="item-description">This grisly statue seems to be doing its best to mimic the form of a humanoid being with 
+            butterfly wings. It's large, about 6 feet tall, and the bony wings look delicate.<span>
+    </p>
+
+    <hr>
+    <p class="footnote"><img src="icons/earring_of_disguise.webp" class="item-icon" /> 1 Earring of Disguise</p>
+
+</div>

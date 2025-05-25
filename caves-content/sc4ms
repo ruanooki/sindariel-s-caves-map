@@ -1,0 +1,23 @@
+<div class="modal-custom">
+    <h3>Shadow Cavern 4 of Moon and Shadow</h3>
+    <hr>
+
+    <p>This small cavern has two paths to the west of it. Someone has engraved a star in the floor of the stone on the path 
+        to the right, while a crescent moon has been engraved on the floor of the stone on the path to the left. 
+        Searching further, you find a glimmering crystal bird on the ground.
+    </p>
+
+    <hr>
+        
+    <p>Moon: 
+        <span class="item-description">The moon engraved on the floor of the path is just that. A stone engraving.</span>
+    </p>
+        
+    <p>Star: 
+        <span class="item-description">The star engraved on the floor of the path is just that. A stone engraving.</span>
+    </p>
+    
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+</div>

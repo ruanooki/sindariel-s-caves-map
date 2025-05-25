@@ -1,0 +1,18 @@
+<div class="modal-custom">
+    <h3>Path 8 of Crystal Left</h3>
+    <hr>
+
+    <p>Following the crystalline path you decided to take the leftmost path when you hit a fork. It's straight, and wide, and lets 
+        you admire the crystalline structures in their full glory, your light if you're holding one making little rainbows reflect 
+        against the walls. Among them you find 2 crystal birds.</p>
+    <hr>
+
+    <p>Crystals: 
+        <span class="item-description"> The crystals here reflect iridescent light. Some are perfectly prism shaped, and it covers the 
+            area in beautiful little rainbows.<span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 2 birds</p>
+</div>

@@ -1,0 +1,22 @@
+<div class="modal-custom">
+    <h3>Path 8 of Mushroom</h3>
+    <hr>
+
+    <p>After following a path filled with mushrooms, you decide to continue to follow the mushroom path that had curved to the 
+        left. The path seems to fork at the end revealing two more mushroom laden paths-- one to the left, and one to the right. 
+        Among the mushrooms you find a stone marked with a symbol and an a1. Perhaps this Symbol Stone A1 will be of use.</p>
+    <hr>
+
+    <p>Glowing mushrooms: 
+        <span class="item-description">The mushrooms glow with a pale light. Even when picked, the light doesn't fade, though you 
+            notice the mushroom is covered in a sticky substance which occasionally has small insects trapped in it. If you 
+            roll lore, and get one success, you know these are miner's guardian mushrooms. Once picked, their light will last for 
+            3 more weeks, and it will last even longer than that if you feed them insects. Not only that, they're edible, though 
+            the taste is somewhat sour and unpleasant. These mushrooms have saved many a lost miner from starvation.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone A1</p>
+
+</div>

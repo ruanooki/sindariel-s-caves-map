@@ -1,0 +1,41 @@
+/* svg styles */
+#map-container {
+    padding: 50px;
+}
+
+svg {
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 0;
+}
+
+.cave {
+    fill: #cce4e4;
+    stroke-width:0.5;
+    pointer-events: all;
+}
+
+.cave:hover {
+    fill-opacity: 0.35;
+}
+
+.monster-cave {
+    fill: rgba(255, 0, 0, 0.6);
+}
+
+.potion-cave {
+    fill: rgba(143, 188, 143, 0.6);
+}
+
+.other-cave {
+    fill: rgba(240, 230, 140, 0.6);
+}
+
+.stone-cave {
+    fill: rgba(128, 128, 128, 0.6);
+}
+
+.bird-cave {
+    fill: rgba(255, 165, 0, 0.6);
+}

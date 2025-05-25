@@ -1,0 +1,52 @@
+<div>
+    <h3>Cavern 9 of Mushroom Right</h3>
+
+    <ul class="nav">
+        <li class="vers-btn nav-item"><a href="#vers1" class="nav-link active path-btn py-0" data-bs-toggle="tab">Current</a></li>
+        <li class="vers-btn nav-item" ><a href="#vers2" class="nav-link path-btn py-0" data-bs-toggle="tab">Previous</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="vers1">
+            <hr>
+        
+            <p>You've followed the Mushroom path for a while, and when you hit a fork, you opted for the one on the left. This one 
+                immediately opens into a large cavern, and at the center sits a massive glowing mushroom. Occasionally it releases 
+                sparkling spores that seem to vibrate with magic energy. It couldn't hurt to take some of those.</p>
+            <hr>
+
+            <p>Massive glowing mushroom: 
+                <span class="item-description">This massive glowing mushroom looks like all the others except much larger. Perhaps its the 
+                    source of all the little mushrooms, or perhaps some spell made it grow to this size. The glow is now sickly, and a 
+                    large gash oozing an inky black is in its stem.<span>
+            </p>
+
+        </div>
+
+        <div class="tab-pane fade" id="vers2">
+            <hr>
+        
+            <p>You've followed the Mushroom path for a while, and when you hit a fork, you opted for the one on the left. This one 
+                immediately opens into a large cavern, and at the center sits a massive glowing mushroom. Occasionally it releases 
+                sparkling spores that seem to vibrate with magic energy. It couldn't hurt to take some of those.</p>
+            <hr>
+
+            <p>Massive glowing mushroom: 
+                <span class="item-description">This massive glowing mushroom looks like all the others except much larger. Perhaps its 
+                    the source of all the little mushrooms, or perhaps some spell made it grow to this size. The spores seem to vibrate 
+                    with magic.<span>
+            </p>
+        
+            <p>Spores:
+                <span class="item-description">The spores seem to have store magic somehow. Consuming them seems to fill you with a 
+                    surge of magic power as well.<span>
+            </p>
+
+            <hr>
+            <p class="footnote"><img src="icons/healing_potion.webp" class="item-icon" /> 1 Healing Potion</p>
+
+        </div>
+
+    </div>
+
+</div>

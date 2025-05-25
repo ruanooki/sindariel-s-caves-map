@@ -1,0 +1,17 @@
+<div class="modal-custom">
+    <h3>Path 5 of Star</h3>
+    <hr>
+
+    <p>You follow a path that had a star engraved on the floor. Otherwise, the path is short and there is little of note. 
+        Except... you find a gray stone with a symbol carved on it, as well as K1. Perhaps this Symbol Stone K1 will be of use.</p>
+    <hr>
+
+    <p>Star: 
+        <span class="item-description">The star engraved on the floor of the path is just that. A stone engraving.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone K1</p>
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+</div>

@@ -1,0 +1,26 @@
+<div class="modal-custom">
+    <h3>Cavern 13 of Eye</h3>
+    <hr>
+
+    <p>After following the path engraved with an eye symbol, you find yourself at the west side of a huge, round cavern. At the center of 
+        it is a massive crystalline pillar that stretches from the floor to the ceiling, and in the center of the crystalline pillar is a 
+        small, turqouise sphere, only about the size of a walnut. You find little else in this room except for a stone marked with a 
+        symbol and a k8. Perahps this Symbol Stone K8 will be of use.</p>
+    <hr>
+
+    <p>Cystalline pillar: 
+        <span class="item-description">This huge pillar is cyndrilical and perfectly clear. Inside of it is a small turquoise sphere. 
+            You find when drawing too close you are filled with a sense of dread, and are unable to bring yourself to even touch the 
+            pillar.</span>
+    </p>
+
+    <p>Turquoise sphere: 
+        <span class="item-description">This small sphere in the center of a pillar of crystal is only about the size of a walnut. It is 
+            entirely a deep, gemlike turquoise color except for a slash of black in the front like that of a cat's iris. Getting too 
+            close to it fills you with a sense of dread, and you find you are not even able to touch the pillar that encases it.'</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone K8</p>
+</div>

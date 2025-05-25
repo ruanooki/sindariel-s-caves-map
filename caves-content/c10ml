@@ -1,0 +1,18 @@
+<div>
+    <h3>Cavern 10 of Mushroom Left</h3>
+    <hr>
+
+    <p>There was some sort of creature in the path before with the red flower, and as you pass it you find a small cavern filled 
+        with glowing red flowers. Below them, you notice the ground is littered with corpses from which they feed.</p>
+    
+    <hr>
+
+    <p>Glowing red flower: 
+        <span class="item-description">This is an ominous looking flower with many thin petals. Its stem is a pale blue.  If you manage 
+            to roll a lore of three, you know that this flower is known as Parthu flower, and if you find them, there's often a 
+            monster called a Parthu nearby that will collect corpses for the flowers to grow on. You also know that the flower is the
+             only cure for whiteeye-- a disease that turns your irises a milky white, and that shows you ominous visions while it 
+             sickens and kills you.</span>
+    </p>
+        
+</div>

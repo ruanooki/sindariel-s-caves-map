@@ -1,0 +1,11 @@
+<div class="modal-custom">
+    <h3>Path 1</h3>
+    <hr>
+
+    <p>The light shines behind you as you just enter Death's pale caves. The stone is smooth, rounded from nature, and the path 
+        beckons you forward until something catches your attention. It looks to be a gray stone with an odd symbol carved on it, 
+        as well as an R. Perhaps this Symbol Stone R will be of use.</p>
+    <hr>
+
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone R</p>
+</div>

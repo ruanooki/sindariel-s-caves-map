@@ -1,0 +1,28 @@
+<div class="modal-custom">
+    <h3>Crystal Cavern 9 of Eye, Blood and Bone</h3>
+    <hr>
+
+    <p>There was a fork in the crystal path, but it didn't seem to matter as both paths lead to the south side of this massive cavern. 
+        Pale crystals grow over the floor, walls, and ceiling, some so large you can't see the top as it disappears into the depths of 
+        the huge cavern, some so tiny they are smaller than the nail of your thumb. This cavern is so large it would take days to explore 
+        its entirety, but you are able to find the exits. Other than the two paths you arrived from, there appears to be a tiny cavern 
+        hollowed out on the west side, red and stained with old blood. To the north there are three paths. The one on the left has its 
+        entryway decorated with an archway of bones. The one in the middle has an engraving of an eye on the ground, as does the one to 
+        the right. As you explore, you manage to find a stone with a symbol marked on it, as well as t6. Perhaps this Symbol Stone T6 
+        will be of use.</p>
+    <hr>
+
+    <p>Crystals: 
+        <span class="item-description"> The crystals here reflect iridescent light. Some are perfectly prism shaped, and it covers the 
+            area in beautiful little rainbows.<span>
+    </p>
+
+    <p>Archway of bones: 
+        <span class="item-description">Somebody crafted this. The bones are tightly locked in with one another so that this structure won't easily fall. 
+            It's a gruesome path marking.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone T6</p>
+</div>

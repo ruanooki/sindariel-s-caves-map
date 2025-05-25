@@ -1,0 +1,54 @@
+<div>
+    <img src="icons/shambler.png" class="monst-img">
+
+    <h3>Shambler</h3>
+
+    <p>These cursed beings seems to rend reality itself, and come from another realm. It is rumored that they were once mortals of 
+        Tiranthe that grew obsessed with a magical artifact of Fakian's that eventually turned them into this creature.</p>
+
+    <h5>Stats</h5>
+    <div class="row stats mb-2">
+        <div class="col">
+            <p class="mb-0">
+                <span class="stat">Vit:</span>
+                <span class="stat-value"> 3</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Phys:</span>
+                <span class="stat-value"> 5</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Sorc:</span>
+                <span class="stat-value"> 3</span>
+            </p>
+        </div>
+        <div class="col">
+            <p class="mb-0">
+                <span class="stat">Aca:</span>
+                <span class="stat-value"> 1</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Lore:</span>
+                <span class="stat-value"> 2</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Bless:</span>
+                <span class="stat-value"> 2</span>
+            </p>
+        </div>
+    </div>
+
+    <p class="mb-2">Light Magic</p>
+    <p class="mb-3">Profane Essence</p>
+
+    <h5>Skills</h5>
+    <p>Claw (active): 
+        <span class="move-description"> This monster can leave nasty claw wounds.</span>
+    </p>
+    <p>Converge (active):
+        <span class="move-description"> Shamblers will choose someone at random each round, and will all attack that person, paying no 
+            mind to who attacked them.</span>
+    </p>
+
+    <p>Run in groups of 8.</p>
+</div>

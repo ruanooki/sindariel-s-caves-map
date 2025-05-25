@@ -1,0 +1,36 @@
+<div class="modal-custom">
+    <h3>Star Cavern 6 of Mushroom, Crystal and Moon</h3>
+    <hr>
+
+    <p>After following a path that had a star engraved on the floor, you arrive at a cavern that has a large altar at the center 
+        of it, with a suit of armor standing before it. You followed the path from the east of the cavern, and notice there are 
+        two to the north, and one to the south. The path to the south has a crescent moon engraved in the floor, while the left 
+        path to the north seems to be covered in glowing mushrooms, and the right path to the north looks to be covered in 
+        pale crystals.</p>
+    <hr>
+
+    <p>Armor: 
+        <span class="item-description">The armor looks decidedly familiar if you recall a certain night that wielded a broom. 
+            The armor, however, sits unmoving now, except for the uncanny sound of a heartbeat thudding within its frozen chest.</span>
+    </p>
+        
+    <p>Altar: 
+        <span class="item-description">The altar is large and takes up much of the space. 
+            A large star is engraved in the center of it-- large enough for someone to lie there and have 
+            each of their limbs in each point.</span>
+    </p>
+        
+    <p>Crystals: 
+        <span class="item-description">The crystals here reflect iridescent light. 
+            Some are perfectly prism shaped, and it covers the area is beautiful little rainbows.</span>
+    </p>
+        
+    <p>Mushrooms: 
+        <span class="item-description">The mushrooms glow with a pale light. Even when picked, the light doesn't fade, 
+            though you notice the mushroom is covered in a sticky substance which occasionally has small insects trapped in it. 
+            If you roll lore, and get one success, you know these are miner's guardian mushrooms. Once picked, their light will 
+            last for 3 more weeks, and it will last even longer than that if you feed them insects. Not only that, they're edible, 
+            though the taste is somewhat sour and unpleasant. These mushrooms have saved many a lost miner from starvation.</span>
+     </p>
+
+</div>

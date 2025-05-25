@@ -1,0 +1,24 @@
+<div class="modal-custom">
+    <h3>Path 10 of Bone</h3>
+    <hr>
+
+    <p>You follow the path that was decorated with an archway of bones. Its long, and has sharp curves in an S shape. More bone 
+        artworks decorate the path, and among them you find a handful of crystal birds.
+    </p>
+
+    <hr>
+
+    <p>Bone artworks: 
+        <span class="item-description"> Somebody crafted this. The bones are tightly locked in with one another so that this structure 
+            won't easily fall. It's a gruesome path marking.<span>
+    </p>
+
+    <p>Bone artworks: 
+        <span class="item-description">There are chimes, abstract sculptures, new animals made from the bones of many different 
+            animals. These are clearly made by someone.<span>
+    </p>
+
+    <hr>
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 4 birds</p>
+
+</div>

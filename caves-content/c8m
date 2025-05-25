@@ -1,0 +1,29 @@
+<div>
+    <h3>Cavern 8 of Moon</h3>
+    <hr>
+
+    <p>Following a path from the north with a moon engraved on it, you arrived in a large cavern, and are now exploring the 
+        bottom half. You notice a path to the south. There is a crescent pool in the ground, and its surface is glassy still. 
+        You notice the ceiling above has thousands of colorful points of light, like stars, and that the pool reflects it perfectly. 
+        Something about this water is oddly refreshing, and you take some with you.</p>
+
+    <hr>
+
+    <p>Moon:
+        <span class="item-description"> The moon engraved on the floor of the path is just that. A stone engraving.</span>
+    </p>
+    
+    <p>Crescent pool: 
+        <span class="item-description"> Its surface has a calm and glassy stillness, and reflects the tiny points of light that are 
+            on the ceiling. The water is clear and sweet.</span>
+    </p>
+
+    <p>Points of light:
+        <span class="item-description"> You notice a worm on the wall whose tail glows with light. This must be the source of it.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/healing_potion.webp" class="item-icon"> 1 healing potion</p>    
+
+</div>

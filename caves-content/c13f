@@ -1,0 +1,27 @@
+<div class="modal-custom">
+    <h3>Cavern 13 of Feather</h3>
+    <hr>
+
+    <p>After following the path engraved with a feather, you find yourself at the south side of a large cavern. Some of the stones have 
+        been stacked up to make a sort of workbench, and you can see the broken remains of what was once a magic laboratory on these 
+        makeshift workbenches. Within the cavern you find a handful of crystal birds.</p>
+        
+    <hr>
+
+    <p>Magic Laboratory: 
+        <span class="item-description"> Broken glass shows there were once bottles here, and crystals are here as well to store magical 
+            energy. There are also books, but most are motheaten and water damaged so badly they are unreadable. Only one page on the 
+            workbench gives you information of note 'The eye is here but it's not enough. It's only one piece. It needs to be inserted 
+            into something that can channel its power.'</span>
+    </p>
+
+    <p>Workbench: 
+        <span class="item-description"> A long workbench made of carefully stacked pale stones that you can find within the caves. Most 
+            of the stuff on top is unusable, but you do manage to find a page with writing. All it says is 'The eye is here but it's 
+            not enough. It's only one piece. It needs to be inserted into something that can channel its power.'</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+</div>

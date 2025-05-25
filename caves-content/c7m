@@ -1,0 +1,18 @@
+<div>
+    <h3>Cavern 7 of Moon</h3>
+    <hr>
+
+    <p>Following a path from the north with a moon engraved on it, you arrive in a large cavern, 
+        so large that you can't see the other end of it in the darkness. You can, however, tell that there is a path 
+        directly to the east. Giving this place a quick lookover, you discover a handful of crystal birds.</p>
+        
+    <hr>
+
+    <p>Moon: 
+        <span class="item-description">The moon engraved on the floor of the path is just that. A stone engraving.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+</div>

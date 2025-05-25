@@ -1,0 +1,12 @@
+<div class="modal-custom">
+    <h3>Moon Cavern 10 of Tree</h3>
+    <hr>
+
+    <p>Either following the moon path from the south, or the tree path from the east, you find yourself in a large cavern with one 
+        more unexplored path to the north. Searching around, you find a handful of crystal birds.</p>
+    
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+        
+</div>

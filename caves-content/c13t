@@ -1,0 +1,30 @@
+<div class="modal-custom">
+    <h3>Cavern 13 of Tree</h3>
+    <hr>
+
+    <p>This is a tiny cavern that has been hollowed out on the southwest wall of the massive forest cavern. It looks to have been used 
+        as a little room once. A decayed bed sits in one wall, and in another alcove above it sits another decayed bed. The remains of 
+        a stove and some pots is here as well. There's also a rusted sword, and the tattered remains of a toy bear.</p>
+    <hr>
+
+    <p>Decayed bed: 
+        <span class="item-description">Both beds are molded and tattered, and look only slightly more palatable than the stone to 
+            sleep on. You can imagine that once they were nice though, as they seem to be stuffed with wool and made of decent 
+            cloth.</span>
+    </p>
+
+    <p>Toy bear: 
+        <span class="item-description">A plush bear sewn of checkered cloth. This was most certainly a child's toy once, and it 
+            was sitting on the upper bed. What an odd thing to find down here.</span>
+    </p>
+
+    <p>Stove: 
+        <span class="item-description">Only some ashes remain in this little clay stove.</span>
+    </p>
+
+    <p>Rusted sword: 
+        <span class="item-description">Its far too rusted to be used for its intended purpose. However, there looks to have been a 
+            name etched in the leather on the hilt. The first letters are too faded, but the last two letters are an L and an A.</span>
+    </p>
+
+</div>

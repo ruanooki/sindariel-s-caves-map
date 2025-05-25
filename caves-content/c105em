@@ -1,0 +1,175 @@
+<div class="modal-custom">
+    <h3>Cavern 10.5 of Eye Middle</h3>
+    
+        <ul class="nav">
+            <li class="vers-btn nav-item"><a href="#nokey" class="nav-link active path-btn py-0" data-bs-toggle="tab" >Without Key</a></li>
+            <li class="vers-btn nav-item"><a href="#key" class="nav-link path-btn py-0" data-bs-toggle="tab" >With Key</a></li>
+        </ul>
+    
+
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="nokey">
+            <hr>
+        
+            <p>After following the middle path that was decorated with an engraving of an eye, you decide to look within the small cavern 
+                that was hollowed out in the left wall. The cavern is small, and smooth walled, and in the center of it is a large black 
+                box with a keyhole in the lid.</p>
+
+            <p>Suddenly, you hear a disappointed voice in your head. "You haven't found one of my keys. I'm afraid I'll have to stay shut 
+                then. Shut for years and years when I have so many gifts to give." No matter what you do, the box won't open, nor does it 
+                speak to you again.</p>
+            <hr>
+
+            <p>Large black box: 
+                <span class="item-description"> The box is about as large as a seaman's chest, and its made of some cool shining black material. 
+                    A small keyhole sits in the center of the front of the lid, and gold letters spell out 'Baelan's Magic Box' on the center of 
+                    the top of the lid. The box seems affixed to the ground, as if you try to lift it, it stays shut.</span>
+            </p>
+
+        </div>
+
+        <div class="tab-pane fade" id="key">
+            <hr>
+        
+            <p>After following the middle path that was decorated with an engraving of an eye, you decide to look within the small cavern 
+                that was hollowed out in the left wall. The cavern is small, and smooth walled, and in the center of it is a large black 
+                box with a keyhole in the lid.</p>
+
+            <p>Suddenly, you hear a whimsical voice in your head. "I see you've found one of my keys," it says. "How wonderful. I'll be 
+                taking that." The old key you've held onto for all this time suddenly flies out of where you've been keeping it, then 
+                flashes into a sphere of gold light that swirls into the keyhole before disappearing. With that, the box clicks open, 
+                revealing the treasure inside for you to take. Once taken, the box will click shut to be locked again.</p>
+            <hr>
+
+            <p>Large black box: 
+                <span class="item-description"> The box is about as large as a seaman's chest, and its made of some cool shining black material. 
+                    A small keyhole sits in the center of the front of the lid, and gold letters spell out 'Baelan's Magic Box' on the center of 
+                    the top of the lid. The box seems affixed to the ground, as if you try to lift it, it stays shut.</span>
+            </p>
+
+            <hr>
+
+
+            <div class="weapon-tab-wrapper">
+                <ul class="nav weapon-tabs">
+                    <!-- Bow of Nature -->
+                    <li class="nav-item weapon-item"><a href="#bow" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/bow_of_nature.webp" class="item-icon" /></a></li>
+                    <!-- Daggers of Shadow -->
+                    <li class="nav-item weapon-item"><a href="#daggers" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/daggers_of_shadow.png" class="item-icon" /></a></li>
+                    <!-- Harp of Crystal -->
+                    <li class="nav-item weapon-item"><a href="#harp" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/harp_of_crystal.png" class="item-icon" /></a></li>
+                    <!-- Shield of Ice -->
+                    <li class="nav-item weapon-item"><a href="#shield" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/shield_of_ice.webp" class="item-icon" /></a></li>
+                    <!-- Spear of the Storm -->
+                    <li class="nav-item weapon-item"><a href="#spear" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/spear_of_the_storm.png" class="item-icon" /></a></li>
+                    <!-- Staff of Light -->
+                    <li class="nav-item weapon-item"><a href="#staff" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/staff_of_light.webp" class="item-icon" /></a></li>
+                    <!-- Sword of Flame -->
+                    <li class="nav-item weapon-item"><a href="#sword" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/sword_of_flame.webp" class="item-icon" /></a></li>
+                    <!-- Zephr Fan -->
+                    <li class="nav-item weapon-item"><a href="#fan" class="nav-link" data-bs-toggle="tab">
+                        <img src="icons/zephyr_fan.webp" class="item-icon" /></a></li>
+                </ul>
+            </div>
+
+            <!-- Weapons descriptions -->
+            <div class="tab-content">
+                <div class="tab-pane fade" id="bow">
+                    <hr>
+                
+                    <p>This bow smells like a forest, and gives you a sense of peace.</p>
+        
+                    <p>When using a creation magic ability, or when doing a physical attack, gain +1d6 (works for healing and magic 
+                        buffs, and for physical attacks). When using healing magic, or when doing a physical attack, always do 1 success 
+                        of nature healing, or do 1 success of nature damage ON TOP of what you have already rolled. This item classifies 
+                        as a weapon.</p>
+        
+                </div>
+
+                <div class="tab-pane fade" id="daggers">
+                    <hr>
+                
+                    <p>These daggers come in a set. Your steps seem quieter when you hold them. </p>
+        
+                    <p>When doing a physical attack gain +1d6. When rolling initiative, gain +1d6. When attacking, always have 1 
+                        success of dark damage ON TOP of what you have already rolled. This item is a weapon.</p>
+        
+                </div>
+
+                <div class="tab-pane fade" id="harp">
+                    <hr>
+                
+                    <p>This harps strings have a sound as pure as crystal.</p>
+        
+                    <p>When using a creation magic ability, or when doing a magical attack, gain +1d6 (works for healing and magic buffs, 
+                        and for magical attacks). When using healing magic, or when doing a magical attack, always have 1 success healing 
+                        from the element you're healing with, or do 1 success of mineral damage ON TOP of what you have already rolled. 
+                        This item classifies as a weapon.</p>
+        
+                </div>
+
+                <div class="tab-pane fade" id="shield">
+                    <hr>
+                
+                    <p>This shield is cool to the touch, and little seems to be able to damage it.</p>
+        
+                    <p>When rolling for a physical or magical defense, gain +1d6. After rolling defense, add to that number +1 success of 
+                        a magical ice defense. This item classifies as a weapon.</p>
+        
+                </div>
+
+                <div class="tab-pane fade" id="spear">
+                    <hr>
+                
+                    <p>A spear that crackles with energy, and smells like rain. </p>
+        
+                    <p>When doing a physical attack gain +1d6. When doing a physical defense gain +1d6. When doing a physical attack, 
+                        always have 1 success of lightning damage ON TOP of what you have already rolled. This item is a weapon.</p>
+        
+                </div>
+
+                <div class="tab-pane fade" id="staff">
+                    <hr>
+                
+                    <p>This staff seems to shimmer with light, and thrums with magic power.</p>
+        
+                    <p>When using a creation magic ability, or when doing a magical attack, gain +1d6 (works for healing and magic buffs, 
+                        and for magical attacks). When using healing magic, or when doing a magical attack, always have 1 success of 
+                        light healing, or do 1 success of light damage ON TOP of what you have already rolled. This item classifies as a 
+                        weapon.</p>
+        
+                </div>
+
+                <div class="tab-pane fade" id="sword">
+                    <hr>
+                
+                    <p>This sword is warm to the touch, and when swung the whoosh of flame can be heard.</p>
+        
+                    <p>When doing a physical or magical attack, gain +1d6. When attacking, always have 1 success of fire damage ON TOP 
+                        of what you have already rolled. This item is a weapon.</p>
+        
+                </div>
+
+                <div class="tab-pane fade" id="fan">
+                    <hr>
+                
+                    <p>A fan that can call forth a pleasant breeze, or a raging wind.</p>
+        
+                    <p>When doing a magical attack gain +1d6. When rolling initiative, gain +1d6. When attacking, always have 1 success 
+                        of wind damage ON TOP of what you have already rolled. This item is a weapon.</p>
+        
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+      
+</div>

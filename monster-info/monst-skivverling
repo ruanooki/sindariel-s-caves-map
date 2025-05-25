@@ -1,0 +1,63 @@
+<div>
+    <img src="icons/skivverling.png" class="monst-img">
+
+    <h3>Skivverling</h3>
+
+    <p>These irritating creatures are rumored to be the failed experiment of a mage whose purpose was to destroy the enemies food 
+        storages during war. This seems even more believable when night falls, and they wreak havoc on nearby farms-- digging up newly 
+        planted seeds, and killing and eating livestock. In fact, their nickname is The Farmer's Bane.</p>
+
+    <h5>Stats</h5>
+    <div class="row stats mb-2">
+        <div class="col">
+            <p class="mb-0">
+                <span class="stat">Vit:</span>
+                <span class="stat-value"> 3</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Phys:</span>
+                <span class="stat-value"> 5</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Sorc:</span>
+                <span class="stat-value"> 4, 12</span>
+            </p>
+        </div>
+        <div class="col">
+            <p class="mb-0">
+                <span class="stat">Aca:</span>
+                <span class="stat-value"> 4</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Lore:</span>
+                <span class="stat-value"> 0</span>
+            </p>
+            <p class="mb-0">
+                <span class="stat">Bless:</span>
+                <span class="stat-value"> 0</span>
+            </p>
+        </div>
+    </div>
+
+    <p class="mb-2">Dark Magic</p>
+    <p class="mb-3">Profane Essence</p>
+
+    <h5>Skills</h5>
+    <p>Bite (active): 
+        <span class="move-description"> This monster can leave nasty bite wounds.</span>
+    </p>
+    <p>Shadow hand (active):
+        <span class="move-description"> The monster can manipulate the shadows to attack their opponents.</span>
+    </p>
+    <p>Strength in Darkness (passive):
+        <span class="move-description"> When in darkness, the skivverlings' sorc skill goes up to 12. 
+            Any dark damage it takes is halved, regardless of environment.</span>
+    </p>
+    <p>Blinded by the Light (passive):
+        <span class="move-description"> When in light areas, the skivverlings' sorc skill is 4. 
+            Any light damage it takes is doubled, regardless of environment.
+        </span>
+    </p>
+
+    <p>Run in groups of 7.</p>
+</div>

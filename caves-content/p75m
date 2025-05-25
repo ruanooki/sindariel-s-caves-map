@@ -1,0 +1,15 @@
+<div class="modal-custom">
+    <h3>Path 7.5 of Moon</h3>
+    <hr>
+
+    <p>This was a path that was directly east from the large cavern previous. 
+        It is straight, and narrow, and seems not to be horribly long. 
+        In a alcove there's a statue of Sindariel, and in her mouth is a crystal bird. 
+        When you touch it, faint images of a man holding a helmet drift past you, and a soft voice whispers: 
+        <i>"Draw the moth symbol on the right arm."</i> The voice fades, and the moth symbol appears in your mind for 
+        just a moment before disappearing.</p>
+    
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 1 bird</p>
+</div>

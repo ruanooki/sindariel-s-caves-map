@@ -1,0 +1,18 @@
+<div class="modal-custom">
+    <h3>Path 7 of Crystal</h3>
+    <hr>
+
+    <p>This path was the right path to the north that led from that odd cavern with the altar and the armor. Pale crystals line 
+        the walls, floor and ceiling, giving the entire area a jagged, glimmering look. The path soon forks to the left and right. 
+        Both paths look the same. They both sparkle with crystals. On the ground you find a couple of crystal birds.</p>
+    <hr>
+
+    <p>Crystals: 
+        <span class="item-description"> The crystals here reflect iridescent light. Some are perfectly prism shaped, and it covers the 
+            area in beautiful little rainbows.<span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 2 birds</p>
+</div>

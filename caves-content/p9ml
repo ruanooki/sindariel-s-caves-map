@@ -1,0 +1,53 @@
+<div class="modal-custom">
+    <h3>Path 9 of Mushroom Left</h3>
+    
+        <ul class="nav">
+            <li class="vers-btn nav-item" ><a href="#vers1" class="nav-link active path-btn py-0" data-bs-toggle="tab">Current</a></li>
+            <li class="vers-btn nav-item"><a href="#vers2" class="nav-link path-btn py-0" data-bs-toggle="tab">Previous</a></li>
+        </ul>
+    
+
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="vers1">
+            <hr>
+        
+            <p>You've followed the Mushroom path for a while, and when you hit a fork, you opted for the one on the left. Here, the 
+                mushrooms part, and in the center of them sits a glowing red flower, then there are more flowers, and more. A sickly 
+                smell of rot clouds the air, and you realize the flowers are growing on corpses.</p>
+            <hr>
+
+            <p>Glowing red flower: 
+                <span class="item-description"> This is an ominous looking flower with many thin petals. Its stem is a pale blue.  If 
+                    you manage to roll a lore of three, you know that this flower is known as Parthu flower, and if you find them, 
+                    there's often a monster called a Parthu nearby that will collect corpses for the flowers to grow on. You also know 
+                    that the flower is the only cure for whiteeye-- a disease that turns your irises a milky white, and that shows you 
+                    ominous visions while it sickens and kills you.</span>
+            </p>
+            <hr>
+        
+            <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+        </div>
+        
+        <div class="tab-pane fade" id="vers2">
+            <hr>
+        
+            <p>You've followed the Mushroom path for a while, and when you hit a fork, you opted for the one on the left. Here, the 
+                mushrooms part, and in the center of them sits a glowing red flower. As you approach, you hear a rumbling. (@wisp 
+                if you want to begin combat. You may bring 3 others. If you can't do combat soon, you may instead take 5 xp.)</p>
+            <hr>
+
+            <p>Glowing red flower: 
+                <span class="item-description"> This is an ominous looking flower with many thin petals. Its stem is a pale blue.  If 
+                    you manage to roll a lore of three, you know that this flower is known as Parthu flower, and if you find them, 
+                    there's often a monster called a Parthu nearby that will collect corpses for the flowers to grow on. You also know 
+                    that the flower is the only cure for whiteeye-- a disease that turns your irises a milky white, and that shows you 
+                    ominous visions while it sickens and kills you.</span>
+            </p>
+            <hr>
+        
+            <p class="footnote"><img src="icons/small_beast.webp" class="item-icon" /> Parthu Encounter</p>
+        </div>
+        
+    </div>
+      
+</div>

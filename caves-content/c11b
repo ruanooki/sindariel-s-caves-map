@@ -1,0 +1,20 @@
+<div>
+    <h3>Cavern 11 of Bone</h3>
+    <hr>
+
+    <p>After following the path that was decorated with an archway of bones, you find that it ends in a medium sized cavern. The 
+        cavern is mostly empty, except for a large black door. There is also a small stone on the ground with a symbol marked on 
+        it, along with Y8. Perhaps this Symbol Stone Y8 will be of use.</p>
+    <hr>
+
+    <p>Large black door: 
+        <span class="item-description">The door opens with an easy push, and reveals polished black bricks in a square room. It 
+            appears this door connects Sindariel's caves to Streiya's Labyrinth.</span>
+    </p>
+
+    <img src="icons/door_symbol.png" class="d-block mx-auto bonusimg " />
+
+    <hr>
+
+    <p class="footnote"><img src="icons/symbol_stone.png" class="item-icon" /> Symbol Stone Y8</p>
+</div>

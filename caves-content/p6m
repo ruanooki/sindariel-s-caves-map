@@ -1,0 +1,18 @@
+<div class="modal-custom">
+    <h3>Path 6 of Moon</h3>
+    <hr>
+
+    <p>You follow a path that had a moon engraved on the floor. Otherwise, the path is short and there is little of note. 
+        Except... is that a crystal bird?</p>
+
+    <hr>
+        
+    <p>Moon: 
+        <span class="item-description">The moon engraved on the floor of the path is just that. A stone engraving.</span>
+    </p>
+        
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 3 birds</p>
+
+</div>

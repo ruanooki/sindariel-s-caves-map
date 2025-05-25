@@ -1,0 +1,12 @@
+<div class="modal-custom">
+    <h3>Path 10 of Eye Middle</h3>
+    <hr>
+
+    <p>You follow the middle path that was decorated with an engraving of an eye. A tiny cavern is hollowed out on the wall path 
+        directly to the left, while the end of the path eventually opens up to a larger cavern. Searching the path, you find a couple 
+        of crystal birds.</p>
+        
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 4 birds</p>
+</div>

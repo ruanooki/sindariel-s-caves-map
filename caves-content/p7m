@@ -1,0 +1,22 @@
+<div class="modal-custom">
+    <h3>Path 7 of Mushroom</h3>
+    <hr>
+
+    <p>This path was one of the paths that led away from the small cavern with the altar. Many glowing mushrooms line it, and 
+        it's long and twisty until it eventually hits a fork. The forward path is marked with an engraving of a tree, while the 
+        left path continues to grow thick with mushrooms. Among the mushrooms you find a couple of crystal birds.</p>
+    <hr>
+
+    <p>Glowing mushrooms: 
+        <span class="item-description">The mushrooms glow with a pale light. Even when picked, the light doesn't fade, though you 
+            notice the mushroom is covered in a sticky substance which occasionally has small insects trapped in it. If you 
+            roll lore, and get one success, you know these are miner's guardian mushrooms. Once picked, their light will last for 
+            3 more weeks, and it will last even longer than that if you feed them insects. Not only that, they're edible, though 
+            the taste is somewhat sour and unpleasant. These mushrooms have saved many a lost miner from starvation.</span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 2 birds</p>
+
+</div>

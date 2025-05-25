@@ -1,0 +1,11 @@
+<div class="modal-custom">
+    <h3>Mausoleum</h3>
+    <hr>
+
+    <p>The odd caves of Sindariel's Mausoleum twist and turn, the stone pale and smooth against your fingertips. 
+        You get lost in the darkness, and soon find yourself back at the entrance after having found nothing except 
+        a crystal bird on the path.</p>
+    <hr>
+
+    <p class="footnote"><img src="icons/sparrow.png" class="item-icon" /> 1 bird</p>
+</div>

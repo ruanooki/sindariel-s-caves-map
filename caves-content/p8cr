@@ -1,0 +1,17 @@
+<div class="modal-custom">
+    <h3>Path 8 of Crystal Right</h3>
+    <hr>
+
+    <p>Following the crystalline path you decided to take the leftmost path when you hit a fork. The path is long and curving, 
+        but the crystals near the center seem more lustrous. Standing near them makes you feel... stronger, in a way.</p>
+    <hr>
+
+    <p>Crystals: 
+        <span class="item-description"> The crystals here reflect iridescent light. Some are perfectly prism shaped, and it covers the 
+            area in beautiful little rainbows.<span>
+    </p>
+
+    <hr>
+
+    <p class="footnote"><img src="icons/xp_sparkle.gif" class="item-icon" /> 10 XP</p>
+</div>
