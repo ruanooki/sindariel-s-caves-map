@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
         changeContentWithHTML(html);
       })
       .fail(function () {
-        changeContentWithHTML("<p>Recording not available.</p>");
+        changeContentWithHTML("<p>Monster info not available.</p>");
       });
   });
 
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
         changeContentWithHTML(html);
       })
       .fail(function () {
-        changeContentWithHTML("<p>Recording not available.</p>");
+        changeContentWithHTML("<p>Item info not available.</p>");
       });
   });
   
